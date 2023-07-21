@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "交换两个数的值", "交换两个数的值.vcxproj", "{CD3A6BDE-4855-45FB-9782-592A3FF1EC18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3A6BDE-4855-45FB-9782-592A3FF1EC18}.Debug|x64.ActiveCfg = Debug|x64
+		{CD3A6BDE-4855-45FB-9782-592A3FF1EC18}.Debug|x64.Build.0 = Debug|x64
+		{CD3A6BDE-4855-45FB-9782-592A3FF1EC18}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD3A6BDE-4855-45FB-9782-592A3FF1EC18}.Debug|x86.Build.0 = Debug|Win32
+		{CD3A6BDE-4855-45FB-9782-592A3FF1EC18}.Release|x64.ActiveCfg = Release|x64
+		{CD3A6BDE-4855-45FB-9782-592A3FF1EC18}.Release|x64.Build.0 = Release|x64
+		{CD3A6BDE-4855-45FB-9782-592A3FF1EC18}.Release|x86.ActiveCfg = Release|Win32
+		{CD3A6BDE-4855-45FB-9782-592A3FF1EC18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {667677C6-85A9-415F-A0D4-9990B4F0A6AE}
+	EndGlobalSection
+EndGlobal
