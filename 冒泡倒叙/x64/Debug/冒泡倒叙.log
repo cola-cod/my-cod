@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\vs2022-webcod\qg\冒泡倒叙\源.cpp(19,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“void (__cdecl *)(int [],int)”
+D:\vs2022-webcod\qg\冒泡倒叙\源.cpp(19,11): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "void (__cdecl *)(int [],int)" 的参数 1 冲突
+  冒泡倒叙.vcxproj -> D:\vs2022-webcod\qg\冒泡倒叙\x64\Debug\冒泡倒叙.exe
