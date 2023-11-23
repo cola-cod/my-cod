@@ -1,0 +1,16 @@
+﻿  c.cpp
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(1,1): warning C4828: 文件包含在偏移 0x4a8 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(43,5): error C2084: 函数“int m_strlen(char *)”已有主体
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(8,5): message : 参见“m_strlen”的前一个定义
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(54,6): error C2084: 函数“void r_string(char *)”已有主体
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(19,6): message : 参见“r_string”的前一个定义
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(57,12): error C2065: “m_strlen”: 未声明的标识符
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(57,10): error C2440: “初始化”: 无法从“int (__cdecl *)(char *)”转换为“int”
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(57,10): message : 没有使该转换得以执行的上下文
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(60,6): error C2065: “m_strlen”: 未声明的标识符
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(60,28): error C2568: “>=”: 无法解析函数重载
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(60,28): message : 可能是“int m_strlen(char *)”
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(62,3): error C2065: “r_string”: 未声明的标识符
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(67,5): error C2084: 函数“int main(void)”已有主体
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(32,5): message : 参见“main”的前一个定义
+D:\vs2022-webcod\qg\交换字符串倒叙\c.cpp(70,2): error C2065: “r_string”: 未声明的标识符
